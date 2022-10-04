@@ -1,2 +1,2 @@
 # quiz
-veja -> https://github.com/mr-louback/quiz
+veja -> https://mr-louback.github.io/quiz/
